@@ -2,7 +2,7 @@
 
 ## Architecture
 <kbd>
-  <img src="https://github.com/kujalk/alb-cf-custom-header/tree/master/Images/architecture.png">
+  <img src="Images/architecture.png">
 </kbd>
 
 ## Developer
