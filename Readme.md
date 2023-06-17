@@ -2,7 +2,7 @@
 
 ## Architecture
 <kbd>
-  <img src="Architecture.png">
+  <img src="https://github.com/kujalk/alb-cf-custom-header/tree/master/Images/architecture.png">
 </kbd>
 
 ## Developer
@@ -10,6 +10,7 @@ Janarthanan Kugathasan
 
 ## Method
 ```terraform
+#To create
 terraform init
 terraform plan
 terraform apply -auto-approve
